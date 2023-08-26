@@ -13,7 +13,7 @@ Monitor Amazon prices with our web scraper and receive desktop notifications for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/mariajosematar/webScrapingProject.git
 2. Install required libraries:
    
    - pip install beautifulsoup4 requests.
